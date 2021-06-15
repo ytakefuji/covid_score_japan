@@ -11,8 +11,10 @@ Use pandas DataFrame.
 Prefecture deaths population score
 ...
 
-Find the latest date.
+Find the latest date on the total deaths by prefecture.
 Make a list of prefectures.
-Pick the total deaths data by prefecture.
+Make the total deaths data by prefecture.
 Find the latest population csv.
+Make the latest population by prefecture.
 Calculate a score by prefecture.
+
