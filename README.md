@@ -1,4 +1,4 @@
-# nhk
+# Scoring covid-19 policies by prefecture in Japan
 The latest data on the number of deaths by prefecture in Japan is at the following site:
 
 https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv
