@@ -21,6 +21,8 @@ https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_
 # How to run jpscore
 $ jpscore
 
+<img src='' width= height=>
+
 # Exercises
 <pre>
 1. Make a csv file of the total deaths by prefecture using the latest data.
