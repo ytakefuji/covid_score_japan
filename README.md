@@ -1,4 +1,19 @@
 # Scoring covid-19 policies by prefecture in Japan
+This is under review.
+
+# How to install jpscore
+You need pandas library.
+
+And you need to install nkf library by apt install nkf.
+
+On WSL on Windows, MacOS, or Linux operating systems, run the following command:
+
+$ pip install jpscore
+
+On Windows 11 or 11
+
+$ pip install jpscore --force-reinstall --no-cache-dir --no-binary :all:
+
 The latest data on the number of deaths by prefecture in Japan is at the following site:
 
 https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv
