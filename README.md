@@ -12,7 +12,7 @@ On WSL on Windows, MacOS, or Linux operating systems, run the following command:
 
 $ pip install jpscore
 
-On Windows 11 or 11
+On Windows 11 or 10
 
 $ pip install jpscore --force-reinstall --no-cache-dir --no-binary :all:
 
