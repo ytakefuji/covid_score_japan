@@ -18,6 +18,9 @@ The latest data on the number of deaths by prefecture in Japan is at the followi
 
 https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv
 
+# How to run jpscore
+$ jpscore
+
 # Exercises
 <pre>
 1. Make a csv file of the total deaths by prefecture using the latest data.
