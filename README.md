@@ -4,7 +4,18 @@ This is under review.
 # How to install jpscore
 You need pandas and openpyxl library.
 
-And you need to install nkf library by apt install nkf.
+$ pip install pandas
+
+$ pip install openpyxl
+
+And you need to install nkf command. 
+nkf can be installed by the following command for WSL on Windows or Linux.
+
+$ suod apt install nkf
+
+or for MacOS
+
+$ brew install nkf
 
 On WSL on Windows, MacOS, or Linux operating systems, run the following command:
 
