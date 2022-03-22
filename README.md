@@ -1,5 +1,8 @@
 # Scoring covid-19 policies by prefecture in Japan
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/2570c898-d60b-41ec-bd42-25d0a0629ba9/tree)
+
 This is under review.
+
 
 # How to install jpscore
 You need pandas and openpyxl library.
